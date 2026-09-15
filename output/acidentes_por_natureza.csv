@@ -1,0 +1,49 @@
+categoria,natureza_do_acidente,ano,acidentes_com_vitimas,vitimas_mortais,feridos_graves,feridos_leves,total_de_feridos,indice_gravidade
+Atropelamento,,2018,,,,,Totalde,Índice de
+Atropelamento,,2019,,,,,,
+Atropelamento,,2018,AcV,VM,FG,FL,,
+Atropelamento,,2019,,,,,,
+Atropelamento,,2018,,,,,,
+Atropelamento,,2019,,,,,,
+Atropelamento,,2018,2018,2018,2018,2018,2018,2018
+Atropelamento,,2019,2019,2019,2019,2019,2019,2019
+Atropelamento,Atropelamento de peões,2018,4753,134,355,4648,5137,2.8
+Atropelamento,Atropelamento de peões,2019,4799,116,358,4779,5253,2.4
+Atropelamento,Atropelamento de animais,2018,106,2,8,106,116,1.9
+Atropelamento,Atropelamento de animais,2019,66,1,0,69,70,1.5
+Atropelamento,Atropelamento com fuga,2018,423,15,26,408,449,3.5
+Atropelamento,Atropelamento com fuga,2019,472,11,33,448,492,2.3
+Atropelamento,Total,2018,5282,151,389,5162,5702,2.9
+Atropelamento,Total,2019,5337,128,391,5296,5815,2.4
+Colisão,Colisão com fuga,2018,549,7,21,619,647,1.3
+Colisão,Colisão com fuga,2019,617,3,30,724,757,0.5
+Colisão,Colisão com outras situações,2018,2379,21,79,2983,3083,0.9
+Colisão,Colisão com outras situações,2019,3178,32,124,4102,4258,1.0
+Colisão,Colisão frontal,2018,3390,143,362,5001,5506,4.2
+Colisão,Colisão frontal,2019,2713,104,302,4106,4512,3.8
+Colisão,Colisão traseira com outro veículo em movimento,2018,4036,29,90,5364,5483,0.7
+Colisão,Colisão traseira com outro veículo em movimento,2019,4146,36,145,5541,5722,0.9
+Colisão,Colisão lateral com outro veículo em movimento,2018,5903,55,263,7447,7765,0.9
+Colisão,Colisão lateral com outro veículo em movimento,2019,6452,60,273,8144,8477,0.9
+Colisão,Colisão com veículo ou obstáculo na faixa de rodagem,2018,836,16,40,1076,1132,1.9
+Colisão,Colisão com veículo ou obstáculo na faixa de rodagem,2019,963,12,48,1202,1262,1.2
+Colisão,Colisão choque em cadeia,2018,659,3,3,1011,1017,0.5
+Colisão,Colisão choque em cadeia,2019,702,6,14,1140,1160,0.9
+Colisão,Total,2018,17752,274,858,23501,24633,1.5
+Colisão,Total,2019,18771,253,936,24959,26148,1.3
+Despiste,Despiste com dispositivo de retenção,2018,526,5,17,617,639,1.0
+Despiste,Despiste com dispositivo de retenção,2019,497,1,14,546,561,0.2
+Despiste,Despiste sem dispositivo de retenção,2018,1482,15,39,1624,1678,1.0
+Despiste,Despiste sem dispositivo de retenção,2019,1624,15,51,1709,1775,0.9
+Despiste,Despiste com fuga,2018,88,1,9,108,118,1.1
+Despiste,Despiste com fuga,2019,98,0,19,108,127,0.0
+Despiste,Despiste simples,2018,6752,137,466,7450,8053,2.0
+Despiste,Despiste simples,2019,6141,119,453,6686,7258,1.9
+Despiste,Despiste com transposição do dispositivo de retenção lateral,2018,158,11,22,192,225,7.0
+Despiste,Despiste com transposição do dispositivo de retenção lateral,2019,178,10,14,220,244,5.6
+Despiste,Despiste com capotamento,2018,1440,59,132,1839,2030,4.1
+Despiste,Despiste com capotamento,2019,1945,74,194,2407,2675,3.8
+Despiste,Despiste com colisão com veículo imóbil. ou obstáculo,2018,755,22,63,842,927,2.9
+Despiste,Despiste com colisão com veículo imóbil. ou obstáculo,2019,1113,26,96,1252,1374,2.3
+Despiste,Total,2018,11201,250,748,12672,13670,2.2
+Despiste,Total,2019,11596,245,841,12928,14014,2.1
